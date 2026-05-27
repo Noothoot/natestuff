@@ -2,9 +2,8 @@
 
 Hi there! I'm a Computer Engineering master's student and this is a repository to showcase some of what I'm about! I have a big interest in the interface between software and hardware. So that means a lot of embedded systems and robotics. But that's enough spiel, the show part of the show & tell is usually the more engaging part.
 
-# Project Showcase
 
-## Embedded Systems & Hardware
+# Embedded Systems & Hardware
 ## [_DE10-Lite FPGA Fractal Generator_](https://www.youtube.com/watch?v=ypL_eSWwnSk)
 <img width="357" height="267" alt="image" src="https://github.com/user-attachments/assets/cc960d42-b9c8-42fe-b3ce-6cbbb49dcb72" />
 
@@ -15,7 +14,7 @@ Hi there! I'm a Computer Engineering master's student and this is a repository t
 • Built modular timing, VGA, and compute blocks. 
 
 
-## Robotics & Autonomy
+# Robotics & Autonomy
 ## [_Collaborative Experiment with Boston Dynamics Spot_](https://youtu.be/6kLxo6vfwpY)
 
 <img width="895" height="406" alt="image" src="https://github.com/user-attachments/assets/91cdef4e-39ba-4b7e-8442-ffc2b8bd44d2" />
@@ -54,7 +53,7 @@ Hi there! I'm a Computer Engineering master's student and this is a repository t
 
 •	Used results to evaluate motion-planning strategies.
 
-## Electronics & Circuits
+# Electronics & Circuits
 ## [_DIY Analog Stylophone_](https://www.youtube.com/watch?v=hMT3RbpJPrc)
 <img width="463" height="254" alt="image" src="https://github.com/user-attachments/assets/03fac225-4088-4247-86a4-6c442041f5fb" />
 
@@ -64,7 +63,7 @@ Hi there! I'm a Computer Engineering master's student and this is a repository t
 
 •	Constructed and validated analog signal path.
 
-## Design & Fabrication
+# Design & Fabrication
 ## _3D Printed Test Development Asset_
 
 <img width="639" height="474" alt="image" src="https://github.com/user-attachments/assets/34e6ea8e-43dd-49a2-a552-e60ec5aea350" />
