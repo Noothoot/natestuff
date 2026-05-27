@@ -18,7 +18,9 @@ Hi there! I'm a Computer Engineering master's student and this is a repository t
 <img width="342" height="467" alt="image" src="https://github.com/user-attachments/assets/15ee02e4-efd3-4f63-a121-2cb3a2b02e43" />
 
 •	Developed embedded firmware in C for a Raspberry Pi Pico 2W to control a cube intake and dispensing mechanism used in a human-robot interaction experiment.
+
 •	Integrated a beam-break sensor for cube detection and a stepper motor driving a custom 3D-printed rack-and-pinion mechanism for controlled dispensing.
+
 •	Designed and fabricated a laser-cut enclosure to house the electronics and mechanical components.
 
 
