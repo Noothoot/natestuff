@@ -79,5 +79,7 @@ Hi there! I'm a Computer Engineering master's student and this is a repository t
 <img width="639" height="474" alt="image" src="https://github.com/user-attachments/assets/34e6ea8e-43dd-49a2-a552-e60ec5aea350" />
 
 •	Created a modular fixture for testing fiber optic jumpers in Autodesk Fusion.
+
 •	Reduced test labor time by ~75%.
+
 •	Used for repeated validation cycles.
