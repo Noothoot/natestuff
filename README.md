@@ -13,6 +13,14 @@ Hi there! I'm a Computer Engineering master's student and this is a repository t
 
 • Built modular timing, VGA, and compute blocks. 
 
+## [_Cube "Cooker"_](https://studentuml-my.sharepoint.com/:v:/g/personal/nathan_uhunsere_student_uml_edu/IQAF4RLn-ykkTpmNC16gzGhKARBo0tY8LtZdKumuNyOQCuw?e=xo9Fcj)
+<img width="1080" height="1212" alt="image" src="https://github.com/user-attachments/assets/8dd430aa-f5b4-4c71-9151-0177f97468ea" />
+<img width="684" height="934" alt="image" src="https://github.com/user-attachments/assets/15ee02e4-efd3-4f63-a121-2cb3a2b02e43" />
+
+•	Developed embedded firmware in C for a Raspberry Pi Pico 2W to control a cube intake and dispensing mechanism used in a human-robot interaction experiment.
+•	Integrated a beam-break sensor for cube detection and a stepper motor driving a custom 3D-printed rack-and-pinion mechanism for controlled dispensing.
+•	Designed and fabricated a laser-cut enclosure to house the electronics and mechanical components.
+
 
 # Robotics & Autonomy
 ## [_Collaborative Experiment with Boston Dynamics Spot_](https://youtu.be/6kLxo6vfwpY)
