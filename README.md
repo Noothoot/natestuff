@@ -41,11 +41,10 @@ I have a big interest in the interface between software and hardware. So that me
 
 <img width="674" height="359" alt="image" src="https://github.com/user-attachments/assets/5b1fa5fd-2353-45bb-89b2-2c0dca45534e" />
 
-•	Integrated Pyperplan with DMPs for generalized block-stacking.
+•	Integrated Pyperplan with DMPs in Python for generalized block-stacking task.
 
-•	Created planning + trajectory pipeline for dynamic workspace conditions.
+•	Bridged planning + trajectory pipeline with the Boston Dynamics Spot SDK
 
-•	Demonstrated multi-block generalization on the Spot platform.
 
 ## Duckiebot Autonomous Lane Controller
 
