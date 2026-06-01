@@ -1,4 +1,4 @@
-# natestuff
+# Nathan's Project Showcase
 
 Hi there! My name is Nathan Uhunsere, I'm a Master's in Computer Engineering from the University of Massachusetts Lowell and this is a repository to showcase some of what I'm about! 
 
