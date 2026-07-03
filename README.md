@@ -9,17 +9,15 @@ I have a big interest in the interface between software and hardware. So that me
 ## [_DE10-Lite FPGA Fractal Generator_](https://www.youtube.com/watch?v=ypL_eSWwnSk)
 <img width="357" height="267" alt="image" src="https://github.com/user-attachments/assets/cc960d42-b9c8-42fe-b3ce-6cbbb49dcb72" />
 
-• Designed VHDL video engine producing Mandelbrot/Fatou sets. 
+•	Designed a VHDL video engine rendering Mandelbrot/Fatou sets in real time at 800×600 @ 60 Hz on a 40 MHz pixel clock.
 
-• Achieved 800×600 @ 60Hz computation and pixel rendering. 
-
-• Built modular timing, VGA, and compute blocks. 
+• Executed end-to-end symbolic-to-physical task planning using hardcoded block locations.
 
 ## [_Cube "Cooker"_](https://studentuml-my.sharepoint.com/:v:/g/personal/nathan_uhunsere_student_uml_edu/IQAF4RLn-ykkTpmNC16gzGhKARBo0tY8LtZdKumuNyOQCuw?e=xo9Fcj)
 <img width="360" height="404" alt="image" src="https://github.com/user-attachments/assets/8dd430aa-f5b4-4c71-9151-0177f97468ea" />
 <img width="342" height="467" alt="image" src="https://github.com/user-attachments/assets/15ee02e4-efd3-4f63-a121-2cb3a2b02e43" />
 
-•	Developed embedded firmware in C for a Raspberry Pi Pico 2W to control a cube intake and dispensing mechanism used in a human-robot interaction experiment.
+•	Developed embedded firmware in C for a Raspberry Pi Pico 2W to control a cube intake and dispensing mechanism deployed across a 21-participant physical-vs-virtual (Overcooked-inspired) Human-Robot Interaction study.
 
 •	Integrated a beam-break sensor for cube detection and a stepper motor driving a custom 3D-printed rack-and-pinion mechanism for controlled dispensing.
 
@@ -31,17 +29,17 @@ I have a big interest in the interface between software and hardware. So that me
 
 <img width="895" height="406" alt="image" src="https://github.com/user-attachments/assets/91cdef4e-39ba-4b7e-8442-ffc2b8bd44d2" />
 
-•	Designed and executed a human-robot materials transport task.
+•	Designed and executed a human-robot materials transport task inspired by Overcooked.
 
-•	Built environment and task logic for navigation in a mock kitchen.
-
-•	Implemented safe interaction and path execution behaviors.
+•	Built environment and task logic for navigation within a mock kitchen.
 
 ## [_Symbolic + DMP Motion Planner for Spot_](https://youtu.be/kHK0MJj7-6w)
 
 <img width="674" height="359" alt="image" src="https://github.com/user-attachments/assets/5b1fa5fd-2353-45bb-89b2-2c0dca45534e" />
 
-•	Integrated Pyperplan with DMPs in Python for generalized block-stacking task.
+•	Integrated PyperPlan with Dynamic Motion Primitives for pick-translate-place block-stacking on physical Spot hardware
+
+•	Executed end-to-end symbolic-to-physical task planning using hardcoded block locations.
 
 •	Bridged planning + trajectory pipeline with the Boston Dynamics Spot SDK
 
