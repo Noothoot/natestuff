@@ -11,7 +11,10 @@ I have a big interest in the interface between software and hardware. So that me
 
 •	Designed a VHDL video engine rendering Mandelbrot/Fatou sets in real time at 800×600 @ 60 Hz on a 40 MHz pixel clock.
 
-• Executed end-to-end symbolic-to-physical task planning using hardcoded block locations.
+• Implemented pipelined RTL architecture for real-time fractal computation 
+
+• Built modular RTL blocks with defined interfaces and timing constraints verified in Quartus Prime, requiring mastery of 
+strict timing synchronization. 
 
 ## [_Cube "Cooker"_](https://studentuml-my.sharepoint.com/:v:/g/personal/nathan_uhunsere_student_uml_edu/IQAF4RLn-ykkTpmNC16gzGhKARBo0tY8LtZdKumuNyOQCuw?e=xo9Fcj)
 <img width="360" height="404" alt="image" src="https://github.com/user-attachments/assets/8dd430aa-f5b4-4c71-9151-0177f97468ea" />
